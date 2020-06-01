@@ -1,0 +1,10 @@
+C:\Users\Пользователь\Desktop\учеба\#\7\lab7\stupid_button\bin\Debug\stupid_button.exe.config
+C:\Users\Пользователь\Desktop\учеба\#\7\lab7\stupid_button\bin\Debug\stupid_button.exe
+C:\Users\Пользователь\Desktop\учеба\#\7\lab7\stupid_button\bin\Debug\stupid_button.pdb
+C:\Users\Пользователь\Desktop\учеба\#\7\lab7\stupid_button\obj\Debug\stupid_button.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\учеба\#\7\lab7\stupid_button\obj\Debug\stupid_button.Form1.resources
+C:\Users\Пользователь\Desktop\учеба\#\7\lab7\stupid_button\obj\Debug\stupid_button.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\учеба\#\7\lab7\stupid_button\obj\Debug\stupid_button.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\учеба\#\7\lab7\stupid_button\obj\Debug\stupid_button.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\учеба\#\7\lab7\stupid_button\obj\Debug\stupid_button.exe
+C:\Users\Пользователь\Desktop\учеба\#\7\lab7\stupid_button\obj\Debug\stupid_button.pdb
